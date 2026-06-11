@@ -1,0 +1,37 @@
+Banana___Cordana
+Banana___Healthy
+Banana___Pestalotiopsis
+Banana___Sigatoka
+Chilli___Healthy
+Chilli___leaf_curl
+Chilli___leaf_spot
+Chilli___whitefly
+Coffee___healthy
+Coffee___red_spider_mite
+Coffee___rust
+Groundnut___Early_Leaf_Spot
+Groundnut___Healthy
+Groundnut___Late_Leaf_Spot
+Groundnut___Rust
+Maize___Gray_Leaf_Spot
+Maize___Healthy
+Maize___Leaf_Blight
+Maize___Rust
+Maize___Streak_virus
+Pepper Bell___Bacterial_spot
+Pepper Bell___Healthy
+Rice___Bacterial_Blight
+Rice___Blast
+Rice___Brown_Spot
+Rice___Tungro
+Sugarcane___Bacterial_Blight
+Sugarcane___Healthy
+Sugarcane___Mosaic
+Sugarcane___Rust
+Tea___brown_blight
+Tea___Healthy
+Tea___red_leaf
+Wheat___Brown_rust
+Wheat___Healthy
+Wheat___Rust
+

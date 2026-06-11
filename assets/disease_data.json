@@ -1,0 +1,829 @@
+{
+  "Banana___Cordana": {
+    "en": {
+      "description": "Cordana leaf spot is a fungal disease causing elongated brown lesions on banana leaves, reducing photosynthesis.",
+      "treatment": "Apply fungicides like Mancozeb and remove infected leaves.",
+      "prevention": "Maintain proper spacing and avoid excess moisture."
+    },
+    "ta": {
+      "description": "வாழை இலைகளில் நீளமான பழுப்பு புள்ளிகள் உருவாகும் நோய்.",
+      "treatment": "Mancozeb போன்ற மருந்துகள் பயன்படுத்தவும்.",
+      "prevention": "அதிக ஈரப்பதம் தவிர்க்கவும்."
+    },
+    "hi": {
+      "description": "यह रोग पत्तियों पर लंबे भूरे धब्बे बनाता है।",
+      "treatment": "फंगीसाइड का उपयोग करें।",
+      "prevention": "अधिक नमी से बचें।"
+    },
+    "ml": {
+      "description": "ഇലകളിൽ നീളമുള്ള പാടുകൾ ഉണ്ടാകുന്നു.",
+      "treatment": "ഫംഗീസൈഡ് ഉപയോഗിക്കുക.",
+      "prevention": "അധിക ഈർപ്പം ഒഴിവാക്കുക."
+    }
+  },
+
+  "Banana___Healthy": {
+    "en": {
+      "description": "The banana plant is healthy with no signs of disease.",
+      "treatment": "No treatment required.",
+      "prevention": "Follow proper irrigation and nutrient management."
+    },
+    "ta": {
+      "description": "வாழை செடி ஆரோக்கியமாக உள்ளது.",
+      "treatment": "சிகிச்சை தேவையில்லை.",
+      "prevention": "சரியான பராமரிப்பு செய்யவும்."
+    },
+    "hi": {
+      "description": "केला पौधा स्वस्थ है।",
+      "treatment": "कोई उपचार आवश्यक नहीं।",
+      "prevention": "अच्छी देखभाल करें।"
+    },
+    "ml": {
+      "description": "വാഴച്ചെടി ആരോഗ്യകരമാണ്.",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല.",
+      "prevention": "നല്ല പരിപാലനം ചെയ്യുക."
+    }
+  },
+
+  "Banana___Pestalotiopsis": {
+    "en": {
+      "description": "Pestalotiopsis is a fungal disease causing leaf spots and drying of banana leaves.",
+      "treatment": "Apply fungicides like Carbendazim.",
+      "prevention": "Remove infected leaves and improve air circulation."
+    },
+    "ta": {
+      "description": "பூஞ்சை நோயால் இலைகள் உலரும்.",
+      "treatment": "Carbendazim பயன்படுத்தவும்.",
+      "prevention": "பாதிக்கப்பட்ட இலைகளை அகற்றவும்."
+    },
+    "hi": {
+      "description": "यह फंगल रोग पत्तियों को सुखा देता है।",
+      "treatment": "फंगीसाइड का उपयोग करें।",
+      "prevention": "संक्रमित पत्तियों को हटाएं।"
+    },
+    "ml": {
+      "description": "ഇലകൾ ഉണങ്ങുന്നു.",
+      "treatment": "ഫംഗീസൈഡ് ഉപയോഗിക്കുക.",
+      "prevention": "ബാധിച്ച ഇലകൾ നീക്കം ചെയ്യുക."
+    }
+  },
+
+  "Banana___Sigatoka": {
+    "en": {
+      "description": "Sigatoka is a serious fungal disease causing dark streaks and reduced yield.",
+      "treatment": "Apply fungicides like Mancozeb regularly.",
+      "prevention": "Ensure proper drainage and remove infected leaves."
+    },
+    "ta": {
+      "description": "வாழையில் கரும்புள்ளிகள் உருவாகும் நோய்.",
+      "treatment": "Mancozeb பயன்படுத்தவும்.",
+      "prevention": "நல்ல வடிகால் ஏற்பாடு செய்யவும்."
+    },
+    "hi": {
+      "description": "यह रोग पत्तियों पर काले धब्बे बनाता है।",
+      "treatment": "फंगीसाइड का उपयोग करें।",
+      "prevention": "अच्छी जल निकासी रखें।"
+    },
+    "ml": {
+      "description": "ഇലകളിൽ കറുത്ത പാടുകൾ.",
+      "treatment": "ഫംഗീസൈഡ് ഉപയോഗിക്കുക.",
+      "prevention": "ജലനിരപ്പ് നിയന്ത്രിക്കുക."
+    }
+  },
+
+  "Chilli___Healthy": {
+    "en": {
+      "description": "The chilli plant is healthy and free from disease.",
+      "treatment": "No treatment required.",
+      "prevention": "Maintain proper irrigation and pest control."
+    },
+    "ta": {
+      "description": "மிளகாய் செடி ஆரோக்கியமாக உள்ளது.",
+      "treatment": "சிகிச்சை தேவையில்லை.",
+      "prevention": "சரியான பராமரிப்பு செய்யவும்."
+    },
+    "hi": {
+      "description": "मिर्च का पौधा स्वस्थ है।",
+      "treatment": "कोई उपचार नहीं।",
+      "prevention": "अच्छी देखभाल करें।"
+    },
+    "ml": {
+      "description": "മുളക് ചെടി ആരോഗ്യകരമാണ്.",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല.",
+      "prevention": "ശ്രദ്ധയോടെ പരിപാലിക്കുക."
+    }
+  },
+
+    "Chilli___leaf_curl": {
+    "en": {
+      "description": "Leaf curl disease is caused by viruses spread by whiteflies, leading to curling and deformation of leaves.",
+      "treatment": "Control whiteflies using insecticides like Imidacloprid.",
+      "prevention": "Use resistant varieties and maintain field hygiene."
+    },
+    "ta": {
+      "description": "வைரஸ் காரணமாக இலைகள் சுருங்கும் நோய்.",
+      "treatment": "Imidacloprid போன்ற மருந்துகள் பயன்படுத்தவும்.",
+      "prevention": "எதிர்ப்பு விதைகள் பயன்படுத்தவும்."
+    },
+    "hi": {
+      "description": "यह वायरस से होने वाला रोग है जिसमें पत्तियां मुड़ जाती हैं।",
+      "treatment": "कीटनाशक का उपयोग करें।",
+      "prevention": "प्रतिरोधी बीज लगाएं।"
+    },
+    "ml": {
+      "description": "വൈറസ് മൂലം ഇലകൾ ചുരുങ്ങുന്നു.",
+      "treatment": "കീടനാശിനി ഉപയോഗിക്കുക.",
+      "prevention": "പ്രതിരോധ ശേഷിയുള്ള വിത്തുകൾ ഉപയോഗിക്കുക."
+    }
+  },
+
+  "Chilli___leaf_spot": {
+    "en": {
+      "description": "Leaf spot appears as dark lesions caused by fungal infection.",
+      "treatment": "Apply fungicides like Carbendazim.",
+      "prevention": "Avoid excess moisture and overcrowding."
+    },
+    "ta": {
+      "description": "இலைகளில் கரும்புள்ளிகள் தோன்றும் நோய்.",
+      "treatment": "Carbendazim பயன்படுத்தவும்.",
+      "prevention": "அதிக நீர் தவிர்க்கவும்."
+    },
+    "hi": {
+      "description": "पत्तियों पर धब्बे बनते हैं।",
+      "treatment": "फंगीसाइड का उपयोग करें।",
+      "prevention": "अधिक पानी से बचें।"
+    },
+    "ml": {
+      "description": "ഇലകളിൽ പാടുകൾ.",
+      "treatment": "ഫംഗീസൈഡ് ഉപയോഗിക്കുക.",
+      "prevention": "അധിക വെള്ളം ഒഴിവാക്കുക."
+    }
+  },
+
+  "Chilli___whitefly": {
+    "en": {
+      "description": "Whiteflies suck plant sap and spread viral diseases.",
+      "treatment": "Use Neem oil or Imidacloprid.",
+      "prevention": "Monitor regularly and remove infected plants."
+    },
+    "ta": {
+      "description": "வெள்ளை ஈ செடியை பாதிக்கும்.",
+      "treatment": "Neem எண்ணெய் பயன்படுத்தவும்.",
+      "prevention": "தொடர்ந்து கண்காணிக்கவும்."
+    },
+    "hi": {
+      "description": "सफेद मक्खी पौधे का रस चूसती है।",
+      "treatment": "नीम तेल या कीटनाशक का उपयोग करें।",
+      "prevention": "नियमित जांच करें।"
+    },
+    "ml": {
+      "description": "വെള്ള ഈ സസ്യത്തിന്റെ നീര് കുടിക്കുന്നു.",
+      "treatment": "നീം ഓയിൽ ഉപയോഗിക്കുക.",
+      "prevention": "നിരന്തരം പരിശോധിക്കുക."
+    }
+  },
+
+  "Coffee___healthy": {
+    "en": {
+      "description": "Healthy coffee plant with no disease symptoms.",
+      "treatment": "No treatment required.",
+      "prevention": "Maintain proper care and nutrition."
+    },
+    "ta": {
+      "description": "ஆரோக்கியமான காபி செடி.",
+      "treatment": "சிகிச்சை தேவையில்லை.",
+      "prevention": "சரியான பராமரிப்பு செய்யவும்."
+    },
+    "hi": {
+      "description": "स्वस्थ कॉफी पौधा।",
+      "treatment": "कोई उपचार नहीं।",
+      "prevention": "अच्छी देखभाल करें।"
+    },
+    "ml": {
+      "description": "ആരോഗ്യകരമായ കാപ്പി ചെടി.",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല.",
+      "prevention": "ശ്രദ്ധയോടെ പരിപാലിക്കുക."
+    }
+  },
+
+    "Coffee___red_spider_mite": {
+    "en": {
+      "description": "Red spider mites suck sap from leaves, causing yellowing and leaf drop.",
+      "treatment": "Use acaricides like Dicofol or Neem oil.",
+      "prevention": "Maintain humidity and monitor regularly."
+    },
+    "ta": {
+      "description": "சிவப்பு பூச்சிகள் இலைகளை பாதிக்கும்.",
+      "treatment": "Dicofol அல்லது Neem எண்ணெய் பயன்படுத்தவும்.",
+      "prevention": "ஈரப்பதம் பராமரிக்கவும்."
+    },
+    "hi": {
+      "description": "लाल कीट पत्तियों को नुकसान पहुंचाते हैं।",
+      "treatment": "कीटनाशक का उपयोग करें।",
+      "prevention": "नियमित निगरानी रखें।"
+    },
+    "ml": {
+      "description": "ചുവന്ന പുഴു ഇലകൾക്ക് ഹാനികരം.",
+      "treatment": "കീടനാശിനി ഉപയോഗിക്കുക.",
+      "prevention": "നിരന്തരം പരിശോധിക്കുക."
+    }
+  },
+
+  "Coffee___rust": {
+    "en": {
+      "description": "Coffee rust is a fungal disease causing orange powdery spots on leaves.",
+      "treatment": "Apply fungicides like Copper oxychloride.",
+      "prevention": "Use resistant varieties and proper spacing."
+    },
+    "ta": {
+      "description": "காபி இலைகளில் ஆரஞ்சு நிற புள்ளிகள் தோன்றும் நோய்.",
+      "treatment": "Copper மருந்துகள் பயன்படுத்தவும்.",
+      "prevention": "எதிர்ப்பு விதைகள் பயன்படுத்தவும்."
+    },
+    "hi": {
+      "description": "पत्तियों पर नारंगी धब्बे बनते हैं।",
+      "treatment": "फंगीसाइड का उपयोग करें।",
+      "prevention": "प्रतिरोधी किस्में उपयोग करें।"
+    },
+    "ml": {
+      "description": "ഇലകളിൽ ഓറഞ്ച് പാടുകൾ.",
+      "treatment": "ഫംഗീസൈഡ് ഉപയോഗിക്കുക.",
+      "prevention": "പ്രതിരോധ ഇനങ്ങൾ ഉപയോഗിക്കുക."
+    }
+  },
+
+  "Groundnut___Early_Leaf_Spot": {
+    "en": {
+      "description": "Early leaf spot causes brown lesions on leaves.",
+      "treatment": "Apply fungicides like Chlorothalonil.",
+      "prevention": "Rotate crops and maintain spacing."
+    },
+    "ta": {
+      "description": "இலைகளில் பழுப்பு புள்ளிகள் தோன்றும் நோய்.",
+      "treatment": "Chlorothalonil பயன்படுத்தவும்.",
+      "prevention": "பயிர் மாற்றம் செய்யவும்."
+    },
+    "hi": {
+      "description": "पत्तियों पर भूरे धब्बे।",
+      "treatment": "फंगीसाइड लगाएं।",
+      "prevention": "फसल चक्र अपनाएं।"
+    },
+    "ml": {
+      "description": "ഇലകളിൽ തവിട്ടു പാടുകൾ.",
+      "treatment": "ഫംഗീസൈഡ് ഉപയോഗിക്കുക.",
+      "prevention": "വിള ചക്രം പാലിക്കുക."
+    }
+  },
+
+  "Groundnut___Healthy": {
+    "en": {
+      "description": "Healthy groundnut plant.",
+      "treatment": "No treatment required.",
+      "prevention": "Maintain proper soil and irrigation."
+    },
+    "ta": {
+      "description": "ஆரோக்கியமான நிலக்கடலை செடி.",
+      "treatment": "சிகிச்சை தேவையில்லை.",
+      "prevention": "சரியான பராமரிப்பு செய்யவும்."
+    },
+    "hi": {
+      "description": "स्वस्थ मूंगफली पौधा।",
+      "treatment": "कोई उपचार नहीं।",
+      "prevention": "अच्छी देखभाल करें।"
+    },
+    "ml": {
+      "description": "ആരോഗ്യകരമായ നിലക്കടല ചെടി.",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല.",
+      "prevention": "ശ്രദ്ധയോടെ പരിപാലിക്കുക."
+    }
+  },
+
+    "Groundnut___Late_Leaf_Spot": {
+    "en": {
+      "description": "Late leaf spot causes dark circular spots and leaf drop.",
+      "treatment": "Apply fungicides like Mancozeb or Chlorothalonil.",
+      "prevention": "Use crop rotation and resistant varieties."
+    },
+    "ta": {
+      "description": "இலைகளில் கரும்புள்ளிகள் தோன்றும் நோய்.",
+      "treatment": "Mancozeb பயன்படுத்தவும்.",
+      "prevention": "பயிர் மாற்றம் செய்யவும்."
+    },
+    "hi": {
+      "description": "पत्तियों पर काले धब्बे बनते हैं।",
+      "treatment": "फंगीसाइड का उपयोग करें।",
+      "prevention": "फसल चक्र अपनाएं।"
+    },
+    "ml": {
+      "description": "ഇലകളിൽ കറുത്ത പാടുകൾ.",
+      "treatment": "ഫംഗീസൈഡ് ഉപയോഗിക്കുക.",
+      "prevention": "വിള ചക്രം പാലിക്കുക."
+    }
+  },
+
+  "Groundnut___Rust": {
+    "en": {
+      "description": "Rust disease causes reddish-brown pustules on leaves.",
+      "treatment": "Use fungicides like Sulfur or Mancozeb.",
+      "prevention": "Ensure proper spacing and ventilation."
+    },
+    "ta": {
+      "description": "இலைகளில் செம்மஞ்சள் புள்ளிகள் தோன்றும் நோய்.",
+      "treatment": "Sulfur அல்லது Mancozeb பயன்படுத்தவும்.",
+      "prevention": "நல்ல காற்றோட்டம் ஏற்படுத்தவும்."
+    },
+    "hi": {
+      "description": "पत्तियों पर जंग जैसे धब्बे बनते हैं।",
+      "treatment": "फंगीसाइड का उपयोग करें।",
+      "prevention": "हवा का प्रवाह बनाए रखें।"
+    },
+    "ml": {
+      "description": "ഇലകളിൽ ജംഗ് നിറത്തിലുള്ള പാടുകൾ.",
+      "treatment": "ഫംഗീസൈഡ് ഉപയോഗിക്കുക.",
+      "prevention": "വായു സഞ്ചാരം ഉറപ്പാക്കുക."
+    }
+  },
+
+  "Maize___Gray_Leaf_Spot": {
+    "en": {
+      "description": "Gray leaf spot is a fungal disease causing rectangular lesions.",
+      "treatment": "Apply fungicides like Azoxystrobin.",
+      "prevention": "Use resistant hybrids and crop rotation."
+    },
+    "ta": {
+      "description": "இலைகளில் சாம்பல் நிற புள்ளிகள் தோன்றும் நோய்.",
+      "treatment": "Azoxystrobin பயன்படுத்தவும்.",
+      "prevention": "எதிர்ப்பு விதைகள் பயன்படுத்தவும்."
+    },
+    "hi": {
+      "description": "पत्तियों पर धूसर धब्बे बनते हैं।",
+      "treatment": "फंगीसाइड का उपयोग करें।",
+      "prevention": "प्रतिरोधी बीज लगाएं।"
+    },
+    "ml": {
+      "description": "ഇലകളിൽ ചാര നിറത്തിലുള്ള പാടുകൾ.",
+      "treatment": "ഫംഗീസൈഡ് ഉപയോഗിക്കുക.",
+      "prevention": "പ്രതിരോധ ഇനങ്ങൾ ഉപയോഗിക്കുക."
+    }
+  },
+
+  "Maize___Healthy": {
+    "en": {
+      "description": "Healthy maize plant with no disease.",
+      "treatment": "No treatment required.",
+      "prevention": "Maintain proper soil nutrition."
+    },
+    "ta": {
+      "description": "ஆரோக்கியமான மக்காச்சோளம் செடி.",
+      "treatment": "சிகிச்சை தேவையில்லை.",
+      "prevention": "சரியான உரம் பயன்படுத்தவும்."
+    },
+    "hi": {
+      "description": "स्वस्थ मक्का पौधा।",
+      "treatment": "कोई उपचार नहीं।",
+      "prevention": "अच्छी देखभाल करें।"
+    },
+    "ml": {
+      "description": "ആരോഗ്യകരമായ മക്ക ചെടി.",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല.",
+      "prevention": "ശ്രദ്ധയോടെ പരിപാലിക്കുക."
+    }
+  },
+
+    "Maize___Leaf_Blight": {
+    "en": {
+      "description": "Leaf blight causes long grayish lesions on maize leaves.",
+      "treatment": "Apply fungicides like Mancozeb.",
+      "prevention": "Use resistant varieties and crop rotation."
+    },
+    "ta": {
+      "description": "இலைகளில் நீளமான புள்ளிகள் தோன்றும் நோய்.",
+      "treatment": "Mancozeb பயன்படுத்தவும்.",
+      "prevention": "பயிர் மாற்றம் செய்யவும்."
+    },
+    "hi": {
+      "description": "पत्तियों पर लंबे धब्बे बनते हैं।",
+      "treatment": "फंगीसाइड का उपयोग करें।",
+      "prevention": "फसल चक्र अपनाएं।"
+    },
+    "ml": {
+      "description": "ഇലകളിൽ നീളമുള്ള പാടുകൾ.",
+      "treatment": "ഫംഗീസൈഡ് ഉപയോഗിക്കുക.",
+      "prevention": "വിള ചക്രം പാലിക്കുക."
+    }
+  },
+
+  "Maize___Rust": {
+    "en": {
+      "description": "Rust disease produces reddish-brown pustules on leaves.",
+      "treatment": "Use fungicides like Sulfur.",
+      "prevention": "Ensure good air circulation."
+    },
+    "ta": {
+      "description": "இலைகளில் செம்மஞ்சள் புள்ளிகள்.",
+      "treatment": "Sulfur பயன்படுத்தவும்.",
+      "prevention": "காற்றோட்டம் உறுதி செய்யவும்."
+    },
+    "hi": {
+      "description": "पत्तियों पर जंग जैसे धब्बे।",
+      "treatment": "फंगीसाइड का उपयोग करें।",
+      "prevention": "हवा का प्रवाह बनाए रखें।"
+    },
+    "ml": {
+      "description": "ഇലകളിൽ ജംഗ് പാടുകൾ.",
+      "treatment": "ഫംഗീസൈഡ് ഉപയോഗിക്കുക.",
+      "prevention": "വായു സഞ്ചാരം ഉറപ്പാക്കുക."
+    }
+  },
+
+  "Maize___Streak_virus": {
+    "en": {
+      "description": "Streak virus causes yellow streaks and stunted growth.",
+      "treatment": "Control insect vectors.",
+      "prevention": "Use resistant seeds."
+    },
+    "ta": {
+      "description": "மஞ்சள் கோடுகள் தோன்றும் வைரஸ் நோய்.",
+      "treatment": "பூச்சிகளை கட்டுப்படுத்தவும்.",
+      "prevention": "எதிர்ப்பு விதைகள் பயன்படுத்தவும்."
+    },
+    "hi": {
+      "description": "पीले धारीदार लक्षण दिखाई देते हैं।",
+      "treatment": "कीट नियंत्रण करें।",
+      "prevention": "प्रतिरोधी बीज उपयोग करें।"
+    },
+    "ml": {
+      "description": "മഞ്ഞ വരകൾ കാണപ്പെടുന്നു.",
+      "treatment": "കീടങ്ങളെ നിയന്ത്രിക്കുക.",
+      "prevention": "പ്രതിരോധ വിത്തുകൾ ഉപയോഗിക്കുക."
+    }
+  },
+
+  "Pepper_Bell___Bacterial_spot": {
+    "en": {
+      "description": "Bacterial spot causes dark lesions on leaves and fruits.",
+      "treatment": "Use copper-based bactericides.",
+      "prevention": "Avoid overhead watering and use clean seeds."
+    },
+    "ta": {
+      "description": "இலைகளில் கரும்புள்ளிகள் தோன்றும் பாக்டீரியா நோய்.",
+      "treatment": "Copper மருந்துகள் பயன்படுத்தவும்.",
+      "prevention": "மேலிருந்து நீர் ஊற்ற வேண்டாம்."
+    },
+    "hi": {
+      "description": "पत्तियों पर काले धब्बे बनते हैं।",
+      "treatment": "कॉपर आधारित दवाएं उपयोग करें।",
+      "prevention": "ऊपर से पानी देने से बचें।"
+    },
+    "ml": {
+      "description": "ഇലകളിൽ കറുത്ത പാടുകൾ.",
+      "treatment": "കോപ്പർ മരുന്നുകൾ ഉപയോഗിക്കുക.",
+      "prevention": "മുകളിലൂടെ വെള്ളം ഒഴിക്കരുത്."
+    }
+  },
+
+  "Pepper_Bell___Healthy": {
+    "en": {
+      "description": "Healthy pepper plant.",
+      "treatment": "No treatment required.",
+      "prevention": "Maintain proper care."
+    },
+    "ta": {
+      "description": "ஆரோக்கியமான மிளகாய் செடி.",
+      "treatment": "சிகிச்சை தேவையில்லை.",
+      "prevention": "சரியான பராமரிப்பு செய்யவும்."
+    },
+    "hi": {
+      "description": "स्वस्थ शिमला मिर्च पौधा।",
+      "treatment": "कोई उपचार नहीं।",
+      "prevention": "अच्छी देखभाल करें।"
+    },
+    "ml": {
+      "description": "ആരോഗ്യകരമായ കാപ്സിക്കം ചെടി.",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല.",
+      "prevention": "ശ്രദ്ധയോടെ പരിപാലിക്കുക."
+    }
+  },
+
+    "Rice___Bacterial_Blight": {
+    "en": {
+      "description": "Bacterial blight causes yellowing and drying of rice leaves.",
+      "treatment": "Use resistant varieties and apply copper-based bactericides.",
+      "prevention": "Avoid excess nitrogen and maintain field hygiene."
+    },
+    "ta": {
+      "description": "நெல் இலைகள் மஞ்சளாகி உலரும் நோய்.",
+      "treatment": "Copper மருந்துகள் பயன்படுத்தவும்.",
+      "prevention": "அதிக நைட்ரஜன் தவிர்க்கவும்."
+    },
+    "hi": {
+      "description": "पत्तियां पीली होकर सूख जाती हैं।",
+      "treatment": "कॉपर आधारित दवाएं उपयोग करें।",
+      "prevention": "अधिक नाइट्रोजन से बचें।"
+    },
+    "ml": {
+      "description": "ഇലകൾ മഞ്ഞയായി ഉണങ്ങുന്നു.",
+      "treatment": "കോപ്പർ മരുന്നുകൾ ഉപയോഗിക്കുക.",
+      "prevention": "അധിക നൈട്രജൻ ഒഴിവാക്കുക."
+    }
+  },
+
+  "Rice___Blast": {
+    "en": {
+      "description": "Blast is a fungal disease causing diamond-shaped lesions on leaves.",
+      "treatment": "Apply fungicides like Tricyclazole.",
+      "prevention": "Avoid excess nitrogen and maintain spacing."
+    },
+    "ta": {
+      "description": "வைரம் வடிவ புள்ளிகள் தோன்றும் பூஞ்சை நோய்.",
+      "treatment": "Tricyclazole பயன்படுத்தவும்.",
+      "prevention": "நல்ல இடைவெளி வைக்கவும்."
+    },
+    "hi": {
+      "description": "हीरे के आकार के धब्बे बनते हैं।",
+      "treatment": "फंगीसाइड का उपयोग करें।",
+      "prevention": "उचित दूरी बनाए रखें।"
+    },
+    "ml": {
+      "description": "വജ്ര ആകൃതിയിലുള്ള പാടുകൾ.",
+      "treatment": "ഫംഗീസൈഡ് ഉപയോഗിക്കുക.",
+      "prevention": "ശരിയായ ഇടവേള പാലിക്കുക."
+    }
+  },
+
+  "Rice___Brown_Spot": {
+    "en": {
+      "description": "Brown spot causes circular brown lesions on leaves.",
+      "treatment": "Apply fungicides and improve soil fertility.",
+      "prevention": "Use balanced fertilization."
+    },
+    "ta": {
+      "description": "பழுப்பு நிற புள்ளிகள் தோன்றும் நோய்.",
+      "treatment": "மருந்து பயன்படுத்தவும்.",
+      "prevention": "சமநிலை உரம் பயன்படுத்தவும்."
+    },
+    "hi": {
+      "description": "भूरे धब्बे बनते हैं।",
+      "treatment": "फंगीसाइड का उपयोग करें।",
+      "prevention": "संतुलित उर्वरक उपयोग करें।"
+    },
+    "ml": {
+      "description": "തവിട്ടുനിറമുള്ള പാടുകൾ.",
+      "treatment": "ഫംഗീസൈഡ് ഉപയോഗിക്കുക.",
+      "prevention": "സമതുലിതമായ വളപ്രയോഗം."
+    }
+  },
+
+  "Rice___Tungro": {
+    "en": {
+      "description": "Tungro is a viral disease causing yellow-orange discoloration and stunted growth.",
+      "treatment": "Control leafhoppers.",
+      "prevention": "Use resistant varieties."
+    },
+    "ta": {
+      "description": "மஞ்சள் நிறம் மற்றும் வளர்ச்சி குறையும் வைரஸ் நோய்.",
+      "treatment": "பூச்சிகளை கட்டுப்படுத்தவும்.",
+      "prevention": "எதிர்ப்பு விதைகள் பயன்படுத்தவும்."
+    },
+    "hi": {
+      "description": "पीला रंग और वृद्धि रुक जाती है।",
+      "treatment": "कीट नियंत्रण करें।",
+      "prevention": "प्रतिरोधी बीज लगाएं।"
+    },
+    "ml": {
+      "description": "മഞ്ഞ നിറവും വളർച്ച കുറയും.",
+      "treatment": "കീടങ്ങളെ നിയന്ത്രിക്കുക.",
+      "prevention": "പ്രതിരോധ വിത്തുകൾ ഉപയോഗിക്കുക."
+    }
+  },
+
+  "Sugarcane___Bacterial_Blight": {
+    "en": {
+      "description": "Causes leaf streaks and drying in sugarcane.",
+      "treatment": "Use resistant varieties.",
+      "prevention": "Maintain clean field conditions."
+    },
+    "ta": {
+      "description": "கரும்பில் இலைகள் உலரும் நோய்.",
+      "treatment": "எதிர்ப்பு வகைகள் பயன்படுத்தவும்.",
+      "prevention": "தூய்மை பராமரிக்கவும்."
+    },
+    "hi": {
+      "description": "पत्तियां सूख जाती हैं।",
+      "treatment": "प्रतिरोधी किस्में उपयोग करें।",
+      "prevention": "खेत साफ रखें।"
+    },
+    "ml": {
+      "description": "ഇലകൾ ഉണങ്ങുന്നു.",
+      "treatment": "പ്രതിരോധ ഇനങ്ങൾ ഉപയോഗിക്കുക.",
+      "prevention": "ശുചിത്വം പാലിക്കുക."
+    }
+  },
+
+  "Sugarcane___Healthy": {
+    "en": {
+      "description": "Healthy sugarcane plant.",
+      "treatment": "No treatment required.",
+      "prevention": "Maintain proper irrigation."
+    },
+    "ta": {
+      "description": "ஆரோக்கியமான கரும்பு செடி.",
+      "treatment": "சிகிச்சை தேவையில்லை.",
+      "prevention": "சரியான நீர்ப்பாசனம் செய்யவும்."
+    },
+    "hi": {
+      "description": "स्वस्थ गन्ना पौधा।",
+      "treatment": "कोई उपचार नहीं।",
+      "prevention": "अच्छी देखभाल करें।"
+    },
+    "ml": {
+      "description": "ആരോഗ്യകരമായ കരിമ്പ് ചെടി.",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല.",
+      "prevention": "ശ്രദ്ധയോടെ പരിപാലിക്കുക."
+    }
+  },
+
+  "Sugarcane___Mosaic": {
+    "en": {
+      "description": "Mosaic disease causes mottled patterns on leaves.",
+      "treatment": "Remove infected plants.",
+      "prevention": "Use disease-free planting material."
+    },
+    "ta": {
+      "description": "இலைகளில் மாறுபட்ட நிறம் தோன்றும் நோய்.",
+      "treatment": "பாதிக்கப்பட்ட செடிகளை அகற்றவும்.",
+      "prevention": "நல்ல விதைகள் பயன்படுத்தவும்."
+    },
+    "hi": {
+      "description": "पत्तियों पर मोज़ेक पैटर्न।",
+      "treatment": "संक्रमित पौधों को हटाएं।",
+      "prevention": "स्वस्थ बीज उपयोग करें।"
+    },
+    "ml": {
+      "description": "ഇലകളിൽ മോസൈക് പാറ്റേൺ.",
+      "treatment": "ബാധിച്ച ചെടികൾ നീക്കം ചെയ്യുക.",
+      "prevention": "ആരോഗ്യകരമായ വിത്തുകൾ ഉപയോഗിക്കുക."
+    }
+  },
+
+  "Sugarcane___Rust": {
+    "en": {
+      "description": "Rust causes reddish-brown spots on leaves.",
+      "treatment": "Apply fungicides.",
+      "prevention": "Ensure good air circulation."
+    },
+    "ta": {
+      "description": "செம்மஞ்சள் புள்ளிகள் தோன்றும் நோய்.",
+      "treatment": "மருந்து பயன்படுத்தவும்.",
+      "prevention": "காற்றோட்டம் உறுதி செய்யவும்."
+    },
+    "hi": {
+      "description": "जंग जैसे धब्बे बनते हैं।",
+      "treatment": "फंगीसाइड का उपयोग करें।",
+      "prevention": "हवा का प्रवाह रखें।"
+    },
+    "ml": {
+      "description": "ജംഗ് പാടുകൾ.",
+      "treatment": "ഫംഗീസൈഡ് ഉപയോഗിക്കുക.",
+      "prevention": "വായു സഞ്ചാരം ഉറപ്പാക്കുക."
+    }
+  },
+
+  "Tea___brown_blight": {
+    "en": {
+      "description": "Brown blight causes drying and browning of tea leaves.",
+      "treatment": "Apply fungicides.",
+      "prevention": "Remove infected leaves."
+    },
+    "ta": {
+      "description": "தேயிலை இலைகள் பழுப்பு நிறமாகும்.",
+      "treatment": "மருந்து பயன்படுத்தவும்.",
+      "prevention": "பாதிக்கப்பட்ட இலைகளை அகற்றவும்."
+    },
+    "hi": {
+      "description": "पत्तियां भूरी हो जाती हैं।",
+      "treatment": "फंगीसाइड का उपयोग करें।",
+      "prevention": "संक्रमित पत्तियों को हटाएं।"
+    },
+    "ml": {
+      "description": "ഇലകൾ തവിട്ടുനിറമാകും.",
+      "treatment": "ഫംഗീസൈഡ് ഉപയോഗിക്കുക.",
+      "prevention": "ബാധിച്ച ഇലകൾ നീക്കം ചെയ്യുക."
+    }
+  },
+
+  "Tea___Healthy": {
+    "en": {
+      "description": "Healthy tea plant.",
+      "treatment": "No treatment required.",
+      "prevention": "Maintain proper care."
+    },
+    "ta": {
+      "description": "ஆரோக்கியமான தேயிலை செடி.",
+      "treatment": "சிகிச்சை தேவையில்லை.",
+      "prevention": "சரியான பராமரிப்பு செய்யவும்."
+    },
+    "hi": {
+      "description": "स्वस्थ चाय पौधा।",
+      "treatment": "कोई उपचार नहीं।",
+      "prevention": "अच्छी देखभाल करें।"
+    },
+    "ml": {
+      "description": "ആരോഗ്യകരമായ ചായ ചെടി.",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല.",
+      "prevention": "ശ്രദ്ധയോടെ പരിപാലിക്കുക."
+    }
+  },
+
+  "Tea___red_leaf": {
+    "en": {
+      "description": "Red leaf disease causes reddish discoloration.",
+      "treatment": "Improve soil nutrition.",
+      "prevention": "Maintain balanced fertilization."
+    },
+    "ta": {
+      "description": "இலைகள் சிவப்பு நிறமாக மாறும்.",
+      "treatment": "மண் ஊட்டச்சத்து மேம்படுத்தவும்.",
+      "prevention": "சமநிலை உரம் பயன்படுத்தவும்."
+    },
+    "hi": {
+      "description": "पत्तियां लाल हो जाती हैं।",
+      "treatment": "मिट्टी सुधारें।",
+      "prevention": "संतुलित उर्वरक दें।"
+    },
+    "ml": {
+      "description": "ഇലകൾ ചുവപ്പ് നിറമാകും.",
+      "treatment": "മണ്ണ് മെച്ചപ്പെടുത്തുക.",
+      "prevention": "സമതുലിത വളപ്രയോഗം."
+    }
+  },
+
+  "Wheat___Brown_rust": {
+    "en": {
+      "description": "Brown rust causes brown pustules on wheat leaves.",
+      "treatment": "Apply fungicides.",
+      "prevention": "Use resistant varieties."
+    },
+    "ta": {
+      "description": "கோதுமை இலைகளில் பழுப்பு புள்ளிகள்.",
+      "treatment": "மருந்து பயன்படுத்தவும்.",
+      "prevention": "எதிர்ப்பு விதைகள் பயன்படுத்தவும்."
+    },
+    "hi": {
+      "description": "पत्तियों पर भूरे धब्बे।",
+      "treatment": "फंगीसाइड का उपयोग करें।",
+      "prevention": "प्रतिरोधी बीज लगाएं।"
+    },
+    "ml": {
+      "description": "ഇലകളിൽ തവിട്ടു പാടുകൾ.",
+      "treatment": "ഫംഗീസൈഡ് ഉപയോഗിക്കുക.",
+      "prevention": "പ്രതിരോധ ഇനങ്ങൾ ഉപയോഗിക്കുക."
+    }
+  },
+
+  "Wheat___Healthy": {
+    "en": {
+      "description": "Healthy wheat plant.",
+      "treatment": "No treatment required.",
+      "prevention": "Maintain proper farming practices."
+    },
+    "ta": {
+      "description": "ஆரோக்கியமான கோதுமை செடி.",
+      "treatment": "சிகிச்சை தேவையில்லை.",
+      "prevention": "சரியான பராமரிப்பு செய்யவும்."
+    },
+    "hi": {
+      "description": "स्वस्थ गेहूं पौधा।",
+      "treatment": "कोई उपचार नहीं।",
+      "prevention": "अच्छी देखभाल करें।"
+    },
+    "ml": {
+      "description": "ആരോഗ്യകരമായ ഗോതമ്പ് ചെടി.",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല.",
+      "prevention": "ശ്രദ്ധയോടെ പരിപാലിക്കുക."
+    }
+  },
+
+  "Wheat___Rust": {
+    "en": {
+      "description": "Rust disease causes reddish spots and reduces yield.",
+      "treatment": "Apply fungicides.",
+      "prevention": "Use resistant varieties."
+    },
+    "ta": {
+      "description": "செம்மஞ்சள் புள்ளிகள் தோன்றும் நோய்.",
+      "treatment": "மருந்து பயன்படுத்தவும்.",
+      "prevention": "எதிர்ப்பு விதைகள் பயன்படுத்தவும்."
+    },
+    "hi": {
+      "description": "जंग जैसे धब्बे बनते हैं।",
+      "treatment": "फंगीसाइड का उपयोग करें।",
+      "prevention": "प्रतिरोधी बीज लगाएं।"
+    },
+    "ml": {
+      "description": "ജംഗ് പാടുകൾ.",
+      "treatment": "ഫംഗീസൈഡ് ഉപയോഗിക്കുക.",
+      "prevention": "പ്രതിരോധ ഇനങ്ങൾ ഉപയോഗിക്കുക."
+    }
+  }
+}
