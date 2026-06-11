@@ -1,16 +1,40 @@
-# plant_disease_detector
+Green Gaze 🌿
 
-A new Flutter project.
+Green Gaze is an AI-powered multilingual plant disease detection application built using Flutter and TensorFlow Lite.
 
-## Getting Started
+Features
+Plant disease detection from leaf images
+AI-powered disease classification
+Confidence score prediction
+Multilingual support
+English
+Tamil
+Hindi
+Malayalam
+Voice-assisted output
+Camera and Gallery image upload
+Offline TensorFlow Lite inference
+Tech Stack
+Flutter
+Dart
+TensorFlow Lite
+Image Picker
+Flutter TTS
+How It Works
+User uploads a crop leaf image.
+The image is preprocessed and sent to the TensorFlow Lite model.
+The model predicts the disease class.
+Disease information is retrieved from the local database.
+Treatment and prevention recommendations are displayed.
+Voice assistant reads the result in the selected language.
+Future Enhancements
+Real-time camera detection
+Cloud-based disease database
+AI chatbot for farming assistance
+Fertilizer recommendation system
+Weather-aware crop advisory
+Author
 
-This project is a starting point for a Flutter application.
+Mohanram
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Green Gaze - Smart Crop Health Monitoring using AI 🌱
